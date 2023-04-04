@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Sensing Systems made Simple
-subtitle: <a href='#'>Affiliations</a>.
+subtitle: Sensing Systems made Simple <a href='#'>Affiliations</a>.
 
 profile:
   align: right
