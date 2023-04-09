@@ -7,9 +7,9 @@ dropdown: true
 children: 
     - title: publications
       permalink: /publications/
-    - title: teaching2
-      permalink: /teaching2/
+    - title: LegoSENSE Basics
+      permalink: /doc/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: Build a Project
+      permalink: /doc/projects/
 ---
