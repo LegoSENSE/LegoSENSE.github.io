@@ -1,15 +1,14 @@
 ---
 layout: page
-title: submenus
+title: documentation
 nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
     - title: LegoSENSE Basics
       permalink: /doc/
-    - title: divider
     - title: Build a Project
       permalink: /doc/projects/
+    - title: Sensor Development
+      permalink: /doc/sensor
 ---
