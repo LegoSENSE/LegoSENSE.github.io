@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /doc/projects
 title: Project Building
+permalink: /doc/projects
 description: Using LegoSENSE to build your own sensing system
 nav: true
 nav_order: 4
