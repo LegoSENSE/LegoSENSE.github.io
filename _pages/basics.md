@@ -4,7 +4,7 @@ permalink: /doc
 title: LegoSENSE Basics
 description: How does LegoSENSE work?
 nav: true
-nav_order: 3
+nav_order: 1
 ---
 
 ### Hardware

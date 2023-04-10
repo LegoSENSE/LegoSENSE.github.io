@@ -4,7 +4,7 @@ title: LegoSENSE hub
 permalink: /projects/
 description: A growing collection of community projects using LegoSENSE.
 nav: true
-nav_order: 2
+nav_order: 5
 display_categories: [work, fun]
 horizontal: false
 ---
