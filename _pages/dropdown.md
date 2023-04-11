@@ -5,10 +5,10 @@ nav: true
 nav_order: 1
 dropdown: true
 children: 
-    - title: LegoSENSE Basics
-      permalink: /doc/
-    - title: Build a Project
-      permalink: /doc/projects/
-    - title: Sensor Development
+    - title: Basics
+      permalink: /doc
+    - title: Projects
+      permalink: /doc/projects
+    - title: Sensor Dev
       permalink: /doc/sensor
 ---
