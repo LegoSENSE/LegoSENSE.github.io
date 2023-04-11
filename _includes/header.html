@@ -74,9 +74,7 @@
                 </div>
               </li>
               <!-- change here to get rid of bar-->
-              {%- elsif p.permalink != "/doc" %}
-                {% if p.permalink != "/doc/projects" %}
-                  {% if p.permalink != "/doc/sensor" %}
+              {%- else %}
                   <li class="nav-item {% if page.title == p.title %}active{% endif %}">
                     <a class="nav-link" href="{{ p.url | relative_url }}">{{ p.title }}
                       {%- if page.title == p.title -%}
@@ -84,8 +82,6 @@
                       {%- endif -%}
                     </a>
                   </li>
-                  {% endif %}  
-                {% endif %}  
               {%- endif %}
               {%- endif -%}
               {% endfor -%}
