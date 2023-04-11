@@ -22,6 +22,7 @@ LegoSENSE aims to make deploying sensor-based systems for a diverse range of IoT
 ### What is LegoSENSE?
 LegoSENSE is a modular and flexible platform for rapidly deploying sensing systems in a diverse range of IoT applications and domains, such as digital health, smart homes, and urban safety. LegoSENSE provides an easy-to-use interface for any end user, such as building managers, middle school students, or doctors, regardless of their programming or embedded systems background, thus allowing them to most efficiently deploy sensing systems for their own needs. Additionally, building on top of one of the most well-known single-board computers, Raspberry Pi, LegoSENSE enables simple-to-design add-ons for developers to introduce new sensors into the LegoSENSE ecosystem, all while being low-cost. 
 
+<img title="a title" alt="Alt text" src="/assets/img/survey.png" width = "650" height="235">
 
 ### Why LegoSENSE? 
 * There is a gap in the market for easily deployable, low-cost, sensing solutions.
