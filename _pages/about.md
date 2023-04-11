@@ -6,7 +6,7 @@ subtitle: Sensing Systems made Simple <a href='#'>Affiliations</a>.
 
 profile:
   align: right
-  image: LegoSENSE_imgs/LegoSENSE.png
+  image: LegoSENSE.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>LegoSENSE carrier board with modules</p>
