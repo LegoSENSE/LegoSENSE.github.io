@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Project Building
+title: Projects
 permalink: /doc/projects
 description: Using LegoSENSE to build your own sensing system
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 **How to Get Started**: should give a breakdown of the basic components necessary to start a project using LegoSENSE
 

@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /doc
-title: LegoSENSE Basics
+title: Basics
 description: How does LegoSENSE work?
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 
 ### Hardware
