@@ -2,6 +2,7 @@
 layout: page
 permalink: /doc
 title: Basics
+title_full: LegoSENSE Basics
 description: How does LegoSENSE work?
 nav: true
 nav_order: 2

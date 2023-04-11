@@ -2,6 +2,7 @@
 layout: page
 permalink: /doc/sensor
 title: Sensor Dev
+title_full: Sensor Development
 description: Creating your own sensors for LegoSENSE
 nav: true
 nav_order: 4

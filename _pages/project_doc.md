@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+title_full: Project Guides
 permalink: /doc/projects
 description: Using LegoSENSE to build your own sensing system
 nav: true
